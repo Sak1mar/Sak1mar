@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://github.com/Sak1mar/grid-mamba">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,50:7C3AED,100:0891B2&height=155&section=header&text=GridCons-Mamba&fontSize=38&fontColor=FFFFFF&animation=fadeIn&desc=Robust%203D%20Medical%20Image%20Segmentation&descSize=17&descAlignY=72" alt="GridCons-Mamba research banner" width="82%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:0891B2&height=190&section=header&text=GridCons-Mamba&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Robust%203D%20Medical%20Image%20Segmentation&descSize=17&descAlignY=58" alt="GridCons-Mamba research banner" width="82%" />
   </a>
 </p>
 
