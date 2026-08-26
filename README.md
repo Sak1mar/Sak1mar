@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://github.com/Sak1mar/grid-mamba">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sak1mar&repo=grid-mamba&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF91F3&icon_color=38BDAE" alt="GridCons-Mamba repository card" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,50:7C3AED,100:0891B2&height=155&section=header&text=GridCons-Mamba&fontSize=38&fontColor=FFFFFF&animation=fadeIn&desc=Robust%203D%20Medical%20Image%20Segmentation&descSize=17&descAlignY=72" alt="GridCons-Mamba research banner" width="82%" />
   </a>
 </p>
 
@@ -92,23 +92,20 @@ Paired-grid consistency for robust 3D medical image segmentation. The project st
 <h2 align="center">🏆 Achievement Terminal</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sak1mar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophies" width="100%" />
+  <img src="https://img.shields.io/github/stars/Sak1mar?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=7C3AED" alt="Total GitHub stars" />
+  <img src="https://img.shields.io/github/followers/Sak1mar?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/Sak1mar/Sak1mar?style=for-the-badge&logo=githubactions&label=PROFILE%20UPDATED&color=DB2777" alt="Profile last updated" />
 </p>
 
 <h2 align="center">📊 Digital Lab Dashboard</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sak1mar&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF91F3&icon_color=38BDAE" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sak1mar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BF91F3" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Sak1mar&theme=tokyonight&hide_border=true&background=0D1117&ring=BF91F3&fire=F472B6&currStreakLabel=38BDAE" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sak1mar&theme=tokyonight&animation=rgb-soft&duration=8" alt="Animated GitHub statistics" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sak1mar&theme=tokyonight&utcOffset=8&animation=rgb-soft&duration=8" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sak1mar&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDAE&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Constellation" alt="Contribution constellation" width="100%" />
+  <img width="62%" src="https://streak-stats.demolab.com?user=Sak1mar&theme=tokyonight&hide_border=true&background=0D1117&ring=BF91F3&fire=F472B6&currStreakLabel=38BDAE" alt="GitHub contribution streak" />
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
