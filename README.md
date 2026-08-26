@@ -55,26 +55,21 @@
 | ⚡ **Efficient Learning** | Compact vision–language models and state-space architectures under explicit compute and data budgets |
 | 📐 **Reliable Evaluation** | Frozen protocols, leakage-resistant experiments, confidence intervals, reproducible artifacts |
 
-<h2 align="center">🚀 Featured Mission</h2>
+<h2 align="center">🔒 Current Research</h2>
 
 <p align="center">
-  <a href="https://github.com/Sak1mar/grid-mamba">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:0891B2&height=190&section=header&text=GridCons-Mamba&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Robust%203D%20Medical%20Image%20Segmentation&descSize=17&descAlignY=58" alt="GridCons-Mamba research banner" width="82%" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,45:4F46E5,100:06B6D4&height=170&section=header&text=Private%20Research&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Double-Blind%20Review%20in%20Progress&descSize=17&descAlignY=62" alt="Private research under double-blind review" width="82%" />
 </p>
-
-### [GridCons-Mamba](https://github.com/Sak1mar/grid-mamba)
-
-Paired-grid consistency for robust 3D medical image segmentation. The project studies whether physically aligned grid views can improve consistency without sacrificing native-grid segmentation quality.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/3D_Medical_Imaging-7C3AED?style=flat-square" alt="3D Medical Imaging" />
-  <img src="https://img.shields.io/badge/Mamba-DB2777?style=flat-square" alt="Mamba" />
-  <img src="https://img.shields.io/badge/Consistency_Learning-0891B2?style=flat-square" alt="Consistency Learning" />
-  <img src="https://img.shields.io/badge/Evidence_Status-Ongoing-F59E0B?style=flat-square" alt="Ongoing evidence status" />
+  <img src="https://img.shields.io/badge/STATUS-PRIVATE_DURING_REVIEW-7C3AED?style=for-the-badge&logo=protonmail&logoColor=white" alt="Private during review" />
+  <img src="https://img.shields.io/badge/ARTIFACTS-AFTER_REVIEW-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Artifacts after review" />
 </p>
 
-> **Status:** Public research artifacts are available; the repository is being reorganized into a clean reproducibility package.
+<p align="center">
+  A current project is being kept private during anonymous review.<br/>
+  Public artifacts will be added after the review constraint ends.
+</p>
 
 <h2 align="center">🧰 Technology Constellation</h2>
 
